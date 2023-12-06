@@ -1,9 +1,13 @@
 Idées :
 
 Tir à l'arc -> Jeux de précision 1
+
 Gym / Skate -> Appuyer au bon moment 4
+
 Natation -> Appuyer à certain moment le plus vite possible sur espace 3
+
 Ping Pong -> IA avec un taux de pas bon 2
+
 Boxe -> IA mediapipe (avec vidéo sur soi) 5
 
 

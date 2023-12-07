@@ -1,5 +1,11 @@
-Idées :
+PROJET :
 
+Ce que l'on garde : Ping Pong -> faire un jeu normal au début et l'améliorer ensuite avec des coups spéciaux / couleurs / texte
+
+
+
+
+IDEES :
 Tir à l'arc -> Jeux de précision 1
 
 Gym / Skate -> Appuyer au bon moment 4
